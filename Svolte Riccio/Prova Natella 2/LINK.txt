@@ -1,0 +1,1 @@
+https://github.com/rnatella/esercizi_linux/tree/master/ambiente_globale/lettori_scrittori/lettori-scrittori_con_priorita

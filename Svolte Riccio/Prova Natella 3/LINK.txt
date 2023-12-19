@@ -1,0 +1,1 @@
+https://github.com/rnatella/esercizi_linux/tree/master/ambiente_locale/code_messaggi/produttore-consumatore_con_sincronizzazione_tramite_code
